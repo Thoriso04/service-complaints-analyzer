@@ -1,0 +1,7 @@
+ComplaintID,ComplaintType,Date,Description
+1,Billing,2023-10-01,"I was double billed for one month."
+2,Network,2023-10-03,"The network keeps dropping."
+3,Customer Service,2023-10-04,"The agent was very rude."
+4,Billing,2023-10-10,"Still no refund after two weeks."
+5,Network,2023-10-15,"No signal in my area since last week."
+6,Customer Service,2023-10-20,"Support staff were not helpful."
